@@ -34,7 +34,7 @@
             </tr>
             @empty
                 <h2>
-                    There are no comics.
+                    Nothing found.
                 </h2>
             @endforelse
         </tbody>
